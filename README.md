@@ -1,11 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0141d5,100:bff9fd&height=180&text=Welcome!%20환영합니다!%20ようこそ!&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0141d5,100:bff9fd&height=180&text=Yeon&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 낭만 찾아 떠나온 모험가 개발자 lsy1307입니다!<br/><br/>취미는 🎤노래, ✈️여행, 🍳요리, 🍸홈텐딩, 🤖프라모델, ⛷️스키 등등 여러가지를 하고 있어요! 혹시 비슷한 분야 관심 있는 분 같이해도 좋아요!<br/>음악은 Mrs. green apple이라는 일본 밴드 음악을 제일 좋아하고 다른 일본 밴드 음악도 좋아해요. 그 외 인디 음악이나 발라드 랩/힙합 구분 없이 다 즐겨 듣는 편이에요. 혹시 추천하고 싶은 노래가 있으면 언제든 알려주세요 : )<br/>
-    요즘 듣는 곡: Mrs. green apple [Familie, Party, They Are]<br/><br/>새로운 사람과 만나는 걸 좋아해요. 예고 없이 갑자기 다가오셔도 저는 언제나 환영입니다!
-    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
