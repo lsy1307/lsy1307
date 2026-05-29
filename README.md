@@ -49,8 +49,7 @@
 | --- | --- | --- |
 | [solid-connect-server](https://github.com/solid-connection/solid-connect-server) | Backend | 교환학생 플랫폼 Solid Connection의 Spring Boot API 서버 |
 | [solid-connection-infra](https://github.com/solid-connection/solid-connection-infra) | Infrastructure | AWS, Terraform 기반 인프라와 GitHub Actions 자동화 |
-| [solid-connection-admin](https://github.com/solid-connection/solid-connection-admin) | Admin | 서비스 운영을 위한 관리자 백오피스 |
-| [bruno-api-typescript](https://github.com/solid-connection/bruno-api-typescript) | Tooling | Bruno API 문서와 TypeScript 쿼리 연계 도구 |
+| [bruno-api-typescript](https://github.com/solid-connection/api-docs) | Tooling | Bruno API 문서 |
 
 ### DEVLINK
 
@@ -58,15 +57,12 @@
 | --- | --- | --- |
 | [VRGuild/Backend](https://github.com/VRGuild/Backend) | Backend | DEVLINK 백엔드 서버 |
 | [VRGuild/Front-web](https://github.com/VRGuild/Front-web) | Frontend | DEVLINK 웹 프론트엔드 |
-| [VRGuild/VRGuild](https://github.com/VRGuild/VRGuild) | Unreal | DEVLINK VR 클라이언트 |
 
 ### UMC README
 
 | Repository | 영역 | 설명 |
 | --- | --- | --- |
 | [UMC-README/front-end](https://github.com/UMC-README/front-end) | Frontend | UMC README 웹 프론트엔드 |
-| [UMC-README/back-end](https://github.com/UMC-README/back-end) | Backend | UMC README 백엔드 |
-| [UMC-README/front-ios](https://github.com/UMC-README/front-ios) | iOS | UMC README iOS 앱 |
 
 ## 연락처
 
