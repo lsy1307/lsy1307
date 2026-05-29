@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&text=Yeonri%20Lee&animation=fadeIn&fontColor=FFFFFF&fontSize=46" alt="header" />
 </div>
 
-## About Me
+## 소개
 
-Backend and infrastructure-focused developer building **Solid Connection**, a platform for exchange students.
+백엔드와 인프라를 중심으로 서비스가 안정적으로 동작하는 흐름을 만드는 데 관심이 있습니다.
 
-- Designing and operating Java/Spring Boot services
-- Managing AWS infrastructure with Terraform and GitHub Actions
-- Improving deployment, monitoring, and load-test workflows
-- Interested in reliable systems, observability, and pragmatic automation
+- Java/Spring Boot 기반 API 서버 개발
+- AWS, Terraform, GitHub Actions 기반 인프라 자동화
+- 배포, 모니터링, 부하 테스트 흐름 개선
+- 운영 가능한 구조와 반복 작업 자동화에 관심
 
-## Tech Stack
+## 기술 스택
 
 **Backend**
 
@@ -30,7 +30,6 @@ Backend and infrastructure-focused developer building **Solid Connection**, a pl
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -42,20 +41,31 @@ Backend and infrastructure-focused developer building **Solid Connection**, a pl
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
 
-## Organization Contributions
+## 기여 및 프로젝트
 
 ### Solid Connection
 
-| Repository | Area | Description |
+| Repository | 영역 | 설명 |
 | --- | --- | --- |
-| [solid-connect-server](https://github.com/solid-connection/solid-connect-server) | Backend | Java/Spring Boot API server for Solid Connection |
-| [solid-connection-infra](https://github.com/solid-connection/solid-connection-infra) | Infrastructure | AWS and Terraform based infrastructure, GitHub Actions automation, load-test environment |
-| [solid-connect-web](https://github.com/solid-connection/solid-connect-web) | Frontend | User-facing web application for exchange students |
-| [solid-connection-admin](https://github.com/solid-connection/solid-connection-admin) | Admin | Back-office application for service operation |
-| [bruno-api-typescript](https://github.com/solid-connection/bruno-api-typescript) | Tooling | API and TypeScript query integration tooling |
-| [solid-connect-algorithm](https://github.com/solid-connection/solid-connect-algorithm) | Study | Algorithm study repository |
+| [solid-connect-server](https://github.com/solid-connection/solid-connect-server) | Backend | 교환학생 플랫폼 Solid Connection의 Spring Boot API 서버 |
+| [solid-connection-infra](https://github.com/solid-connection/solid-connection-infra) | Infrastructure | AWS, Terraform 기반 인프라와 GitHub Actions 자동화 |
+| [solid-connection-admin](https://github.com/solid-connection/solid-connection-admin) | Admin | 서비스 운영을 위한 관리자 백오피스 |
+| [bruno-api-typescript](https://github.com/solid-connection/bruno-api-typescript) | Tooling | Bruno API 문서와 TypeScript 쿼리 연계 도구 |
 
-## Contact
+### DEVLINK
+
+| Repository | 영역 | 설명 |
+| --- | --- | --- |
+| [Backend](https://github.com/lsy1307/Backend) | Backend | DEVLINK 백엔드 서버 |
+| [Front-web](https://github.com/lsy1307/Front-web) | Frontend | DEVLINK 웹 프론트엔드 |
+
+### README
+
+| Repository | 영역 | 설명 |
+| --- | --- | --- |
+| [lsy1307](https://github.com/lsy1307/lsy1307) | Profile | GitHub 메인 프로필 README |
+
+## 연락처
 
 <a href="mailto:among5789@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -69,10 +79,3 @@ Backend and infrastructure-focused developer building **Solid Connection**, a pl
 <a href="https://scratched-gambler-8a0.notion.site/ABOUT-ME-29bede04dfca418b8ac0a24f629d8d95?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </a>
-
-## Stats
-
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lsy1307&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsy1307&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" alt="Top languages" />
-</div>
