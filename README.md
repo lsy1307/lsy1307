@@ -56,14 +56,17 @@
 
 | Repository | 영역 | 설명 |
 | --- | --- | --- |
-| [Backend](https://github.com/lsy1307/Backend) | Backend | DEVLINK 백엔드 서버 |
-| [Front-web](https://github.com/lsy1307/Front-web) | Frontend | DEVLINK 웹 프론트엔드 |
+| [VRGuild/Backend](https://github.com/VRGuild/Backend) | Backend | DEVLINK 백엔드 서버 |
+| [VRGuild/Front-web](https://github.com/VRGuild/Front-web) | Frontend | DEVLINK 웹 프론트엔드 |
+| [VRGuild/VRGuild](https://github.com/VRGuild/VRGuild) | Unreal | DEVLINK VR 클라이언트 |
 
-### README
+### UMC README
 
 | Repository | 영역 | 설명 |
 | --- | --- | --- |
-| [lsy1307](https://github.com/lsy1307/lsy1307) | Profile | GitHub 메인 프로필 README |
+| [UMC-README/front-end](https://github.com/UMC-README/front-end) | Frontend | UMC README 웹 프론트엔드 |
+| [UMC-README/back-end](https://github.com/UMC-README/back-end) | Backend | UMC README 백엔드 |
+| [UMC-README/front-ios](https://github.com/UMC-README/front-ios) | iOS | UMC README iOS 앱 |
 
 ## 연락처
 
