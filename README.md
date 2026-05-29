@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&text=Yeonri%20Lee&animation=fadeIn&fontColor=FFFFFF&fontSize=46" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&text=Yeonri&animation=fadeIn&fontColor=FFFFFF&fontSize=46" alt="header" />
 </div>
 
 ## 소개
